@@ -1,7 +1,8 @@
 # safarofftask
 Admin panel 
 
-baza olaraq postgresql,framework olaraq laravel(php) istifade etmisem proqrami calisdirmadan once
+postgresql,laravel(php)  ve javascript istifade etmisem
+proqrami calisdirmadan once
 
 1)composer update
 
